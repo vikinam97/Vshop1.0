@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Vshop</string>
+    <string name="title_activity_reg__avtivity">Reg_Avtivity</string>
+    <string name="title_activity_temp">temp</string>
+    <string name="title_activity_additem">additem</string>
+    <string name="title_activity_detail">detail</string>
+</resources>

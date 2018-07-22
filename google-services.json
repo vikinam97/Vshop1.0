@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "1009690296844",
+    "firebase_url": "https://vshop-faa23.firebaseio.com",
+    "project_id": "vshop-faa23",
+    "storage_bucket": "vshop-faa23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009690296844:android:871e95d3ef9441af",
+        "android_client_info": {
+          "package_name": "com.example.viki.vshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009690296844-vufu3nc1f8ocbi9fv2kj1pgq66tc3pal.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.viki.vshop",
+            "certificate_hash": "7e1343d6ba20bec8e418df45dd17458ac9deffa2"
+          }
+        },
+        {
+          "client_id": "1009690296844-2pmqhltmb2tsr25ga9cjmpbe5uhummji.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1009690296844-2pmqhltmb2tsr25ga9cjmpbe5uhummji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc-mM1f-S3MSO48Uo-gDe1vXNQxEFWN0Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009690296844-2pmqhltmb2tsr25ga9cjmpbe5uhummji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
